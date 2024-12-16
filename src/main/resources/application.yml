@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: "invoice-token"
+ipfs:
+  url: ""
+ethereum:
+  node:
+    url: ""
