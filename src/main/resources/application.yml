@@ -1,8 +1,10 @@
+server:
+  port: 9090
 spring:
   application:
     name: "invoice-token"
 ipfs:
-  url: ""
+  url: "/ip4/127.0.0.1/tcp/5001"
 ethereum:
   node:
     url: ""
